@@ -1,0 +1,50 @@
+#outer{
+background-color: deepskyblue;
+height: 500px;
+width:500px;
+margin-left:400px ;  
+margin-top: 50px;
+border-radius: 5px;
+border: 2px solid black;
+
+box-shadow: 1px 3px 5px; 
+}
+#textfield{
+height: 250px;
+width: 470px;
+margin-top: 120px;
+margin-left: 12px;
+border-radius: 5px;
+border: 1px solid black;
+}
+#upper{
+width: 475px;
+height: 80px;
+background-color: aqua; 
+margin-left: 12px; 
+margin-top: 10px; 
+border-radius:5px ; 
+border: 1px solid black;
+
+}
+#upper1{
+    position: relative;
+    width: 475px;
+    height: 80px;
+    background-color:aqua; 
+    margin-left: 12px; 
+    bottom: 450px; 
+    border-radius:5px; 
+    border:1px solid black;
+    
+    }
+    #heading{
+    font-size: 30px;
+    text-align: center;    
+    }
+    #lower-text{
+    font-size:20px;
+    text-align:center ;
+   margin-top: 30px;
+   font-size: 20px;
+    }
